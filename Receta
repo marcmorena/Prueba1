@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UFT-8" />
+
+    <title>Receta tortilla de patatas</title>
+
+    <h1>Receta tortilla de patatas</h1>
+
+    <p>4 comensales, dificultad baja.</p>
+
+</head>
+
+<body>
+    
+    <table>
+            <tr>
+                <th>ingredientes</th>   
+                <th>Preparación</th>
+             </tr>
+
+             <tr> 
+                 <td>6 patatas</td>   
+                <td>Echar aceite en una sartén</td>
+            </tr>
+            
+            <tr>
+
+                <td>1 cebolla</td>
+                <td>Sofreir las patatas cortadas en láminas pequeñas</td>
+
+            </tr>
+
+            <tr>
+
+                <td>6 huevos</td>
+                <td>A los 2 minutos, sofreir la cebolla en trocitos junto a la patata</td>
+
+            </tr>
+
+            <tr>
+
+                <td>Aceite de oliva</td>
+                <td>Cuando esté blando, echar en un bol con los huevos previamente batidos, mezclar bien y reposar 2 minutos.</td>
+
+            </tr>
+
+            <tr>
+
+                <td>Sal</td>
+                <td>Echar la mezcla en la sartén, esperar a que cuaje y darle la vuelta para el toque final</td>
+
+            </tr>
+
+            <tr>
+
+                <td>Fin de la receta</td>
+                
+            </tr>
+
+
+
+    </table>
+                     
+</body>
+</html>
